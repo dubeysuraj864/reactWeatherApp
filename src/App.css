@@ -105,7 +105,7 @@ input:hover{
   }
 }
 .temp {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 1000;
   color: white;
 }
@@ -121,7 +121,7 @@ input:hover{
   margin: 10px;
 }
 .location{
-  font-size: 80px;
+  font-size: 60px;
   font-weight: 1000;
   color: #fff;
   margin: 20px;
